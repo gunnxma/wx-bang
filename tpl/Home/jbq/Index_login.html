@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<link rel="shortcut icon" href="favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>{iMicro::C('site_title')} {iMicro::C('site_name')}</title>
+<link href="{pigcms::RES}/css/style.css" rel="stylesheet" type="text/css" />
+<script src="{pigcms::RES}/js/jquery-1.9.1.min.js"></script>
+<script src="{pigcms::RES}/js/parallax.js"></script>
+<!--[if IE 6]><script type="text/javascript" src="{pigcms::RES}/js/dd_belatedpng.js"></script><![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript">
+ DD_belatedPNG.fix("img");
+</script>
+<![endif]-->
+
+</head>
+<!--[if lte IE 6]>
+<style>
+/*ie6提示*/
+#ie6-warning{width:100%;background:#ffffe1;padding:5px 0;font-size:12px}
+#ie6-warning p{width:1100px;margin:0 auto;}
+</style>
+<div id="ie6-warning" class="cl wp"><p>您正在使用 Internet Explorer 6，您的IE浏览器版本过低，在本页面的显示效果可能有差异。建议您升级到 <a href="http://www.microsoft.com/china/windows/internet-explorer/" target="_blank">Internet Explorer 8</a> 或以下浏览器：
+<a href="http://www.mozillaonline.com/">Firefox</a> / <a href="http://www.google.com/chrome/?hl=zh-CN">Chrome</a> / <a href="http://www.apple.com.cn/safari/">Safari</a> / <a href="http://www.operachina.com/">Opera</a></p></div>
+<![endif]-->
+<body>
+<!-- <div class="load" id="load">
+  <div id="loadInside" style="display:none;">
+    <p><img src="" data-src="{pigcms::RES}/images/load_2.png" alt="博采互动" /></p>
+    <p id="loadImg" style="width: 0;"><img src="" data-src="{pigcms::RES}/images/load.png" alt="博采互动" /></p>
+    <p class="loadTxt"><span id="loadTxt">0</span>%</p>
+  </div>
+  <p><img src="{pigcms::RES}/images/loading.gif" alt=""></p>
+  <div class="load_bg"></div>
+</div> -->
+<div class="wrapHeader">
+  <div class="header">
+    <h1 class="logo"><a href="index.php"><img src="{pigcms::RES}/images/logo.jpg" alt="博采互动" title="博采互动" width="143" height="60" /></a></h1>
+    <ul class="nav">
+      <li><a href="{iMicro::U('Index')}">首页</a></li>
+      <li><a href="{iMicro::U('Index')}">营销手段</a></li>
+      <li><a href="{iMicro::U('Index')}">六大优势</a></li>
+      <li><a href="{iMicro::U('Index')}">特色功能</a></li>
+      <li><a href="{iMicro::U('Index')}">技术特点</a></li>
+      <li><a href="" class="cur">会员登陆</a></li> 
+    </ul>
+  </div>
+</div>
+<div class="wrapBox" id="wrapBox">
+  <div class="box b7_bg">
+    <div class="load">
+      <p><img src="{pigcms::RES}/images/loading.gif" alt=""></p>
+      <div class="load_bg"></div>
+    </div>
+    <div class="box_bg box7_bg"><img src="" data-src="{pigcms::RES}/images/b7_bg.jpg" alt=""></div>
+    <div class="box_fixed b7_fixed">
+      <div class="b7_tl box_tl">
+        <h2><span class="clfea005">登陆 </span> 注册</h2>
+        <!-- <p>博采互动为您全力打造新移动互联时代的手机官网，帮助您充分利用移动网络渠道资源，随时随地向客户展示您的企业产品 ，深度挖掘网络渠道意向客户。<br />如果您对我们的新产品感兴趣，可以联系我们，老客户还有神秘礼品赠送哦~</p> -->
+      </div>
+      <div class="b7_contact">
+        <strong class="clfea005 tel">联系在线客服审核</strong>
+        <p class="service">
+          <strong>在线客服</strong>
+          <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=505581766&amp;site=qq&amp;menu=yes" target="_blank" class="qq qq01"></a>
+          <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=505581766&amp;site=qq&amp;menu=yes" target="_blank" class="qq qq02"></a>
+          <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=505581766&amp;site=qq&amp;menu=yes" target="_blank" class="qq qq03"></a>
+        </p>
+        <!-- <a href="javascript:void(0)" class="bocService" title="BOC官方客服"></a> -->
+      </div>
+      <div class="b7_bottom">
+        <div class="b7_map">
+          <h4>登陆<span> / Login</span></h4>
+          <form action="{iMicro::U('Users/checklogin')}" enctype="multipart/form-data" id="registerform" name="register" autocomplete="off" method="post">
+          <div class="row">
+            <input type="text" name="username" id="username" class="name" maxlength="20" placeholder="用户名" onclick="if(this.value=='请输入用户名'){this.value=''}" onblur="if(this.value==''){this.value='请输入用户名'}"/>
+          </div>
+          <div class="row">
+            <input type="password" name="password" id="password" class="name" maxlength="20" placeholder="密码"/>
+          </div>
+          <div>
+            <button type="submit" class="btn" name="regsubmit">登陆</button>&nbsp;&nbsp;<a href="{iMicro::U('Index/regpwd')}">忘记密码</a>
+          <span id="msg" style="float:left;margin-left:5px"></span>
+          </div>
+        </form>
+        </div>
+        <div class="b7_msg">
+          <h4>注册<span> / Register</span></h4>
+          <form action="{iMicro::U('Users/checkreg')}" enctype="multipart/form-data"  name="register" autocomplete="off" method="post">
+          <div class="row">
+            <input type="text" name="username" id="username" class="companyName" maxlength="20" placeholder="用户名" onclick="if(this.value=='请输入用户名'){this.value=''}" onblur="if(this.value==''){this.value='请输入用户名'}"/>
+          </div>
+          <div class="row">
+            <input type="text" name="password" id="password" class="companyName" maxlength="20" placeholder="用户密码"/>
+          </div>
+          <div class="row">
+            <input type="text" name="password" id="password" class="companyName" maxlength="20" placeholder="确认密码"/>
+          </div>
+          <div class="row">
+            <input type="text" name="email" id="email" class="companyName" maxlength="20" placeholder="邮箱" onclick="if(this.value=='请输入E-Mail'){this.value=''}"  onblur="if(this.value==''){this.value='请输入E-Mail'}"/>
+          </div>
+          <div>
+          <button type="submit" class="btn" name="regsubmit">注册</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+//document.body.style.overflow = 'hidden';
+var ie6 = !-[1,]&&!window.XMLHttpRequest;
+ie6 || loadImg.init();
+</script>
+</body>
+</html>

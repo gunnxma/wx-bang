@@ -1,0 +1,46 @@
+[ 2014-04-17T17:35:48+08:00 ] 123.125.71.42 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001543s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000404s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029867s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031923s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.032319s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.032811s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.033120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001627s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.033606s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2014-04-17T19:38:17+08:00 ] 94.242.222.203 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001807s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000441s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034068s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.036482s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.037077s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.037718s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.038105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002264s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.038835s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000852s ]
+

@@ -1,0 +1,43 @@
+1、将安装包文件夹内的所有文件上传到网站根目录
+
+2、新安装用户访问 http://域名/install 安装网站,请勿修改数据库表前缀
+
+3、管理员必须使用admin
+
+4、安装完成后用以下方式进入后台：
+http://你的安装域名/admin.php
+进入后台之后点站点管理》站点设置》设置网站地址之后保存[重要]
+
+5、完成
+
+备注1：
+若转售，则立即取消后续服务.
+
+备注2：
+更多帮助，请访问www.r2003.com或论坛bbs.r2003.com
+
+如果您的程序不是在  叶子微信  购买的，请查看程序是否完整
+
+http://yeziweixin.taobao.com
+
+
+
+一下信息  地址可能会有改变  请自行改变
+
+主页 logo 地址 \tpl\Home\lexiang\common\images
+
+QQ 客服 地址  \tpl\Home\lexiang/Public_footer.html
+
+二维码 地址  \tpl\Home\new\common\images/ewm2.jpg
+
+后台管理界面图片LOGO   \tpl\Butcher\common\images/topbg.jpg  (\tpl\Admin\common\images)
+
+后台登录界面文字 \tpl\Butcher\Admin/index.html
+
+网站整体模版 \Food\conf\Home/config.php 
+
+首页 logo  tpl/static/logo.png 
+
+后台  文字修改  \tpl\Butcher\System/
+
+资费文字修改  \tpl\Home\lexiang/Index_price.html

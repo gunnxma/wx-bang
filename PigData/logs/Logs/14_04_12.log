@@ -1,0 +1,1337 @@
+[ 2014-04-12T00:14:40+08:00 ] 66.249.66.12 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001645s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000434s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012976s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015195s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015630s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016108s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001867s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017135s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2014-04-12T00:17:36+08:00 ] 66.249.66.12 /index.php?g=Home&m=Index&a=login
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001773s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014694s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.016977s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.017348s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.017812s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.018080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001503s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.018535s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2014-04-12T00:17:37+08:00 ] 66.249.66.12 /index.php?m=Index&a=login
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002793s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012626s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.016086s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.016453s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016856s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.017107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001497s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.017631s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2014-04-12T00:18:23+08:00 ] 66.249.66.12 /index.php?g=Home&m=Index&a=fc
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001648s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000422s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/0e1276c93a29566266e927c9e5db1334.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/0e1276c93a29566266e927c9e5db1334.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030880s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.033087s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.033534s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.034058s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.034315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001657s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.034830s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2014-04-12T00:19:09+08:00 ] 66.249.66.12 /index.php?g=Home&m=Index&a=help
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002507s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000582s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 149 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 176 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 180 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036766s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.040037s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.040595s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.041170s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.041547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002130s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.042249s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2014-04-12T00:19:56+08:00 ] 66.249.66.12 /index.php?g=Home&m=Index&a=price
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001626s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000452s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048966s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.051215s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.051855s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.052733s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.053081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.053789s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2014-04-12T00:21:40+08:00 ] 66.249.66.12 /index.php?g=Home&m=Index&a=about
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001607s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000381s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009820s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.011911s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012259s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012623s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001395s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013353s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2014-04-12T02:22:55+08:00 ] 119.147.146.192 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001486s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030531s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.032514s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.032901s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.033294s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.033546s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001437s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.034008s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2014-04-12T09:20:12+08:00 ] 166.78.181.113 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001579s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000380s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029456s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031522s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031883s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.032329s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.032577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001675s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.033263s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2014-04-12T09:57:09+08:00 ] 66.249.66.12 /index.php?g=Home&m=Index&a=common
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001622s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000400s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/767738387552b9f5bb687f89f645c406.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/767738387552b9f5bb687f89f645c406.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009874s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.012011s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.012333s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.012681s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.012928s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001317s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.013372s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2014-04-12T10:35:02+08:00 ] 124.134.52.58 /index.php?g=Wap&m=Product&a=index&token=qrfbwj1397197220&wecha_id=ol-Oqt38fBwRmTVklfCHp2igfWbQ&sgssz=mp.weixin.qq.com
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `tp_token_open` [ RunTime:0.000569s ]
+SQL: SELECT `queryname` FROM `tp_token_open` WHERE ( `token` = 'qrfbwj1397197220' ) LIMIT 1   [ RunTime:0.000201s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.013214s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000409s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 46 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.013698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008429s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.022185s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.022596s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.022992s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.023260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001534s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.023752s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000564s ]
+
+[ 2014-04-12T10:35:08+08:00 ] 124.134.52.58 /index.php?g=Wap&m=Product&a=cats&token=qrfbwj1397197220&wecha_id=ol-Oqt38fBwRmTVklfCHp2igfWbQ
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000514s ]
+SQL: SELECT * FROM `tp_product_cat` WHERE ( `parentid` = 0 ) AND ( `token` = 'qrfbwj1397197220' ) AND ( `dining` = 0 ) ORDER BY id asc  [ RunTime:0.000271s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.013161s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000435s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 46 行.
+NOTIC: [8] Undefined variable: parentid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 51 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.013655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008662s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.022347s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.022708s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.023054s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.023314s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001362s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.023754s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2014-04-12T10:35:11+08:00 ] 124.134.52.58 /index.php?g=Wap&m=Product&a=products&token=qrfbwj1397197220&catid=1&wecha_id=ol-Oqt38fBwRmTVklfCHp2igfWbQ
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000601s ]
+SQL: SELECT * FROM `tp_product_cat` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000194s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `catid` = 1 ) LIMIT 1   [ RunTime:0.000173s ]
+SQL: SELECT * FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `catid` = 1 ) ORDER BY time DESC LIMIT 5   [ RunTime:0.000197s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.012396s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 46 行.
+NOTIC: [8] Undefined variable: isSearch /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 96 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.012877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012323s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.025255s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.025801s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.026392s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.026746s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002095s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.027426s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2014-04-12T10:35:13+08:00 ] 124.134.52.58 /index.php?g=Wap&m=Product&a=product&token=qrfbwj1397197220&id=1&wecha_id=ol-Oqt38fBwRmTVklfCHp2igfWbQ
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000532s ]
+SQL: SELECT * FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `id` = 1 ) LIMIT 1   [ RunTime:0.000230s ]
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 45 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 46 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 47 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 48 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 49 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `tp_company` [ RunTime:0.000641s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_company` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `isbranch` = 1 ) LIMIT 1   [ RunTime:0.000150s ]
+SQL: SELECT * FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `id` <> '1' ) AND ( `groupon` <> 1 ) AND ( `dining` <> 1 ) LIMIT 0,5   [ RunTime:0.000180s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.012851s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000425s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 46 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.013386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010974s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.024386s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.024734s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.025094s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.025343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001357s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.025794s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2014-04-12T10:35:15+08:00 ] 124.134.52.58 /index.php?g=Wap&m=Product&a=product&token=qrfbwj1397197220&id=1&wecha_id=ol-Oqt38fBwRmTVklfCHp2igfWbQ
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000949s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000549s ]
+SQL: SELECT * FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `id` = 1 ) LIMIT 1   [ RunTime:0.000239s ]
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 45 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 46 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 47 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 48 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 49 行.
+NOTIC: [8192] Function ereg_replace() is deprecated /home/wwwroot/www.wx-bang.com/PigCms/Lib/Action/Wap/ProductAction.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `tp_company` [ RunTime:0.000636s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_company` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `isbranch` = 1 ) LIMIT 1   [ RunTime:0.000145s ]
+SQL: SELECT * FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `id` <> '1' ) AND ( `groupon` <> 1 ) AND ( `dining` <> 1 ) LIMIT 0,5   [ RunTime:0.000181s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.013840s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/6e76a42fba1746eaac70251ffabd7c95.php 第 46 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.014303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030243s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.044588s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.044946s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.045298s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.045586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001414s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.046048s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2014-04-12T10:35:38+08:00 ] 124.134.52.58 /index.php?g=Wap&m=Product&a=index&token=qrfbwj1397197220&wecha_id=ol-Oqt38fBwRmTVklfCHp2igfWbQ&sgssz=mp.weixin.qq.com
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000893s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000576s ]
+SQL: SHOW COLUMNS FROM `tp_token_open` [ RunTime:0.000609s ]
+SQL: SELECT `queryname` FROM `tp_token_open` WHERE ( `token` = 'qrfbwj1397197220' ) LIMIT 1   [ RunTime:0.000172s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.012183s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000569s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 46 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.012842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017342s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.030240s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.030695s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.031187s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.031541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001877s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.032188s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2014-04-12T10:47:05+08:00 ] 115.28.133.31 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001491s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000520s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015088s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.017241s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.017616s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.018061s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.018315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001608s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.018930s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2014-04-12T11:07:22+08:00 ] 115.28.133.31 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002007s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000655s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011611s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014402s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014769s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015165s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001412s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015878s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2014-04-12T11:07:35+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=help
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001625s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000387s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 149 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 176 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 180 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019188s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.021347s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.021890s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.022443s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.022975s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002385s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.023822s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2014-04-12T11:08:25+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=help
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001894s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000469s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 149 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 176 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 180 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016141s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.018665s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.019093s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.019540s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.019846s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001661s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.020389s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2014-04-12T11:09:55+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=help
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001612s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 149 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 176 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 180 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013324s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.015432s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015790s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.016156s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.016418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001397s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016883s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2014-04-12T11:10:03+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=login
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001559s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000399s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011789s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013847s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014193s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014607s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014885s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001434s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015334s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000555s ]
+
+[ 2014-04-12T11:10:14+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=login
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001680s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087469s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.089684s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.090247s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.090865s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.091272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002319s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.092098s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2014-04-12T11:10:18+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=common
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001634s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000410s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/767738387552b9f5bb687f89f645c406.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/767738387552b9f5bb687f89f645c406.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008815s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.010966s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.011289s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.011649s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.011900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001325s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.012337s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000559s ]
+
+[ 2014-04-12T11:10:29+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=price
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001642s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000400s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050570s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.052761s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.053498s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.054416s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.054786s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002746s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.055563s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2014-04-12T11:10:33+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=about
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001507s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000365s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065464s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.067454s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.067902s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.068290s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.068676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001653s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.069147s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2014-04-12T11:17:11+08:00 ] 115.28.133.31 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001443s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000385s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027391s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.029345s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.029826s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.030337s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.030704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001854s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031405s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2014-04-12T11:19:25+08:00 ] 115.28.133.31 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001677s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000418s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081391s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.083586s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.083989s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.084508s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.084858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001713s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.085363s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2014-04-12T11:19:51+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=help
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001944s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000475s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 149 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 176 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 180 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035684s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.038247s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.038732s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.039243s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.039610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001904s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.040217s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2014-04-12T11:20:38+08:00 ] 115.28.133.31 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001612s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000397s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032434s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.034554s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.034959s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.035342s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.035636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001507s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.036110s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2014-04-12T11:21:21+08:00 ] 115.28.133.31 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001976s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030185s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.032672s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.033090s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.033480s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.033917s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001649s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.034375s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2014-04-12T11:24:05+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=price
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001540s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000386s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027445s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.029469s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.029883s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.030415s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.030672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001625s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.031189s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2014-04-12T11:26:10+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=price
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001591s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029290s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.031375s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.031820s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.032363s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.032620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001662s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.033103s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2014-04-12T11:26:36+08:00 ] 115.28.133.31 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001426s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000381s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011681s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013590s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013927s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014301s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014583s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001427s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015065s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2014-04-12T11:27:10+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=fc
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001538s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000381s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/0e1276c93a29566266e927c9e5db1334.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/0e1276c93a29566266e927c9e5db1334.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.001990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044266s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046304s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046757s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.047230s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.047490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001606s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.047980s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2014-04-12T11:27:49+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=about
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002409s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000602s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011658s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014805s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.015149s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.015510s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001473s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.016344s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2014-04-12T11:32:17+08:00 ] 115.28.133.31 /index.php?g=Home&m=Index&a=about
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001811s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000455s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040197s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.042609s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.043058s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.043484s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.043775s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001649s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.044311s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2014-04-12T13:26:52+08:00 ] 222.134.87.109 /index.php?g=Wap&m=Product&a=index&token=qrfbwj1397197220&wecha_id=ol-Oqt3IRJ3I11uVt_eKQ8mG2Vws&sgssz=mp.weixin.qq.com
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `tp_token_open` [ RunTime:0.000437s ]
+SQL: SELECT `queryname` FROM `tp_token_open` WHERE ( `token` = 'qrfbwj1397197220' ) LIMIT 1   [ RunTime:0.000173s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.011492s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000411s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 46 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.011970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009531s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.021536s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.021938s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.022292s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.022546s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001414s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.022996s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2014-04-12T13:27:08+08:00 ] 222.134.87.109 /index.php?g=Wap&m=Product&a=cats&token=qrfbwj1397197220&wecha_id=ol-Oqt3IRJ3I11uVt_eKQ8mG2Vws
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.001077s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000881s ]
+SQL: SELECT * FROM `tp_product_cat` WHERE ( `parentid` = 0 ) AND ( `token` = 'qrfbwj1397197220' ) AND ( `dining` = 0 ) ORDER BY id asc  [ RunTime:0.000258s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.015818s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000415s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 46 行.
+NOTIC: [8] Undefined variable: parentid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 51 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/fb05505e898fd69c3ae106722f715eaf.php 第 54 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.016304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009107s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.025437s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.025865s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.026255s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.026567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001605s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.027091s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2014-04-12T13:28:30+08:00 ] 222.134.87.109 /index.php?g=Wap&m=Product&a=products&token=qrfbwj1397197220&catid=1&wecha_id=ol-Oqt3IRJ3I11uVt_eKQ8mG2Vws
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000506s ]
+SQL: SELECT * FROM `tp_product_cat` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000183s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `catid` = 1 ) LIMIT 1   [ RunTime:0.000169s ]
+SQL: SELECT * FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `catid` = 1 ) ORDER BY time DESC LIMIT 5   [ RunTime:0.000185s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.011454s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000411s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 46 行.
+NOTIC: [8] Undefined variable: isSearch /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 96 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.011938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129541s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.141517s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.141909s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.142330s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.142597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001480s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.143052s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2014-04-12T13:28:41+08:00 ] 222.134.87.109 /index.php?g=Wap&m=Product&a=products&token=qrfbwj1397197220&catid=1&wecha_id=ol-Oqt3IRJ3I11uVt_eKQ8mG2Vws
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000498s ]
+SQL: SELECT * FROM `tp_product_cat` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000355s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `catid` = 1 ) LIMIT 1   [ RunTime:0.000163s ]
+SQL: SELECT * FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `catid` = 1 ) ORDER BY time DESC LIMIT 5   [ RunTime:0.000179s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.011949s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000407s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 46 行.
+NOTIC: [8] Undefined variable: isSearch /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 96 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.012422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048625s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.061079s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.061484s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.061870s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.062126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001460s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.062589s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2014-04-12T13:28:55+08:00 ] 222.134.87.109 /index.php?g=Wap&m=Product&a=products&token=qrfbwj1397197220&catid=1&wecha_id=ol-Oqt3IRJ3I11uVt_eKQ8mG2Vws
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000966s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000531s ]
+SQL: SELECT * FROM `tp_product_cat` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000182s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `catid` = 1 ) LIMIT 1   [ RunTime:0.000166s ]
+SQL: SELECT * FROM `tp_product` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `catid` = 1 ) ORDER BY time DESC LIMIT 5   [ RunTime:0.000182s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.011464s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000405s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 46 行.
+NOTIC: [8] Undefined variable: isSearch /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/65e40a066b2eec3896cfc6bc052d3e22.php 第 96 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.011932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010291s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.022252s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.022603s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.022974s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.023224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001362s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.023661s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2014-04-12T13:29:02+08:00 ] 222.134.87.109 /index.php?g=Wap&m=Product&a=index&token=qrfbwj1397197220&wecha_id=ol-Oqt3IRJ3I11uVt_eKQ8mG2Vws
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `tp_product_cat` [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `tp_token_open` [ RunTime:0.000429s ]
+SQL: SELECT `queryname` FROM `tp_token_open` WHERE ( `token` = 'qrfbwj1397197220' ) LIMIT 1   [ RunTime:0.000172s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.011659s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 19 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 24 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 29 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 35 行.
+NOTIC: [8] Undefined variable: isDining /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Wap/76e393a1b5f0be5eda998ae0d000f726.php 第 46 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.012119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007506s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.019649s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.019975s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.020331s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.020580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001319s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.021012s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2014-04-12T13:29:42+08:00 ] 222.134.87.109 /index.php?g=Wap&m=Index&a=index&token=qrfbwj1397197220&wecha_id=ol-Oqt3IRJ3I11uVt_eKQ8mG2Vws&sgssz=mp.weixin.qq.com
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: CREATE TABLE IF NOT EXISTS `tp_site_plugmenu` (
+  `token` varchar(60) NOT NULL DEFAULT '',
+  `name` varchar(20) NOT NULL DEFAULT '',
+  `url` varchar(100) DEFAULT '',
+  `taxis` mediumint(4) NOT NULL DEFAULT '0',
+  `display` tinyint(1) NOT NULL DEFAULT '0',
+  KEY `token` (`token`,`taxis`,`display`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.000211s ]
+NOTIC: [2] mysql_num_rows() expects parameter 1 to be resource, boolean given /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Driver/Db/DbMysql.class.php 第 110 行.
+NOTIC: [2] mysql_free_result() expects parameter 1 to be resource, boolean given /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Driver/Db/DbMysql.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `tp_wxuser` [ RunTime:0.001224s ]
+SQL: SELECT * FROM `tp_wxuser` WHERE ( `token` = 'qrfbwj1397197220' ) LIMIT 1   [ RunTime:0.000247s ]
+SQL: SHOW COLUMNS FROM `tp_classify` [ RunTime:0.000490s ]
+SQL: SELECT * FROM `tp_classify` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `status` = 1 ) ORDER BY sorts desc  [ RunTime:0.000213s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.000974s ]
+SQL: SELECT `gid` FROM `tp_users` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000148s ]
+SQL: SHOW COLUMNS FROM `tp_user_group` [ RunTime:0.000544s ]
+SQL: SELECT * FROM `tp_user_group` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `tp_company` [ RunTime:0.000601s ]
+SQL: SELECT * FROM `tp_company` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `isbranch` = 0 ) LIMIT 1   [ RunTime:0.000157s ]
+SQL: SHOW COLUMNS FROM `tp_home` [ RunTime:0.000512s ]
+SQL: SELECT * FROM `tp_home` WHERE ( `token` = 'qrfbwj1397197220' ) LIMIT 1   [ RunTime:0.000164s ]
+SQL: SELECT * FROM `tp_company` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `isbranch` = 0 ) LIMIT 1   [ RunTime:0.000152s ]
+SQL: SHOW COLUMNS FROM `tp_site_plugmenu` [ RunTime:0.000439s ]
+SQL: SELECT * FROM `tp_site_plugmenu` WHERE ( `token` = 'qrfbwj1397197220' ) AND ( `display` = 1 ) ORDER BY taxis ASC LIMIT 0,4   [ RunTime:0.000262s ]
+SQL: SHOW COLUMNS FROM `tp_flash` [ RunTime:0.000444s ]
+SQL: SELECT * FROM `tp_flash` WHERE ( `token` = 'qrfbwj1397197220' )  [ RunTime:0.000146s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.018265s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000437s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:-0.018770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029357s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.048166s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.048518s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.048879s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.049128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001351s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.049564s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2014-04-12T23:39:37+08:00 ] 69.58.178.56 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001520s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000409s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/921d53177c151344e729eca7c171fe97.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012143s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014175s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014537s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014983s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001560s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015791s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2014-04-12T23:39:42+08:00 ] 69.58.178.56 /index.php?g=Home&m=Index&a=about
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.002517s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000450s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/e7d61e041e9387b0e1a6f735393bd64f.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.003059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011124s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.014222s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.014590s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014949s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.015195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001380s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.015643s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2014-04-12T23:39:43+08:00 ] 69.58.178.56 /index.php?m=Index&a=login
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001618s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000385s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011316s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.013421s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.013782s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.014185s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.014447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001513s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.014995s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2014-04-12T23:39:45+08:00 ] 69.58.178.56 /index.php?g=Home&m=Index&a=fc
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001600s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000386s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/0e1276c93a29566266e927c9e5db1334.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/0e1276c93a29566266e927c9e5db1334.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002055s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043449s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.045554s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046075s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.046693s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.047027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002013s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.047643s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2014-04-12T23:39:46+08:00 ] 69.58.178.56 /index.php?g=Home&m=Index&a=price
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001604s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/26c3c1c9e0bfd747004fee7dc9a32882.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046733s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.048894s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.049391s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.049941s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.050208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001772s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.050715s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2014-04-12T23:39:47+08:00 ] 69.58.178.56 /index.php?g=Home&m=Index&a=common
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001640s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000380s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/767738387552b9f5bb687f89f645c406.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/767738387552b9f5bb687f89f645c406.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052537s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.054672s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.055036s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.055390s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.055637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001364s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.056083s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2014-04-12T23:39:49+08:00 ] 69.58.178.56 /index.php?g=Home&m=Index&a=login
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001592s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/6e27937fb5589b70015f39bf6f7a91c4.php 第 31 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034451s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.036555s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.036965s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.037383s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.037635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001522s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.038125s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2014-04-12T23:39:51+08:00 ] 69.58.178.56 /index.php?g=Home&m=Index&a=help
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+NOTIC: [2] Cannot use a scalar value as an array /home/wwwroot/www.wx-bang.com/PigCms/_Core/Lib/Core/View.class.php 第 69 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.001808s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000454s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: uid /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 31 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 149 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 176 行.
+NOTIC: [8] Undefined index: token /home/wwwroot/www.wx-bang.com/PigData/logs/Cache/Home/7bd452533dfdb57f7764926335aee7e7.php 第 180 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.002366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040326s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.042816s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.043268s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.043644s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.043891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001520s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.044350s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000505s ]
+
